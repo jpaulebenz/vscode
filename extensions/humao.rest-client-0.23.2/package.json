@@ -629,11 +629,11 @@
 		"@types/node": "^10.14.0",
 		"@types/vscode": "^1.38.0",
 		"mocha": "^3.2.0",
-		"ts-loader": "^5.3.2",
+		"ts-loader": "^9.4.2",
 		"tslint": "^5.10.0",
 		"typescript": "^3.7.3",
-		"webpack": "^4.19.1",
-		"webpack-cli": "^3.1.0"
+		"webpack": "^5.75.0",
+		"webpack-cli": "^5.0.1"
 	},
 	"dependencies": {
 		"adal-node": "^0.1.26",
